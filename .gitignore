@@ -1,0 +1,4 @@
+moons/
+*.csv
+!iwantthisfile.csv
+
